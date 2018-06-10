@@ -1,0 +1,87 @@
+{
+	"bio": {
+		"firstName": "Sri Harsha",
+		"lastName": "Chavali",
+		"email": {
+			"work": "sriharsha.chavali@outlook.com",
+			"personal": "sriharsha.chavali@outlook.com"
+		},
+		"summary": "Data Engineer with more than 7 years experience in Data Ingestion, Transformation and Distribution for Business User Consumption. Used Sqoop, Hive, Spark, Hadoop and various other Big Data Technologies. Trying to venture into Data Science and Machine Learning.",
+		"location": {
+			"city": "Orlando",
+			"countryCode": "US",
+			"state": "Florida"
+		},
+		"profiles": {
+			"github": "github.com/sriharshachavali"
+		}
+	},
+	"work": [
+		{
+			"company": "Populus Group",
+			"position": "Senior Big Data Engineer",
+			"website": "transamerica.com",
+			"startDate": "2018-04-02",
+			"endDate": "2018-06-28",
+			"summary": "Big Data Engineer working on Financial Moderinzation Platform. Ingesting 160+ data sources and creation Spark, SparkSQL and Scala based transformation/integration layer for data transformations"
+		},
+		{
+			"company": "Randstad Technologies",
+			"position": "Senior Big Data Engineer",
+			"website": "bankofamerica.com",
+			"startDate": "2016-03-21",
+			"endDate": "2018-03-20",
+			"summary": "Involved in building and enhancing the Cloudera Hadoop platform that processes the SQL server/legacy information. Involved in incubation of additional columns into current process as per the Business requirements. Extensively used Java,Scala,Spark,MapReduce,Impala,Oozie,Autosys Job scheduler, UNIX,Pig,Hive,Python,Shell Scripting,Maven,Jenkins,NDM,etc."
+		},
+		{
+			"company": "Knowledgent Group",
+			"position": "Data Engineer",
+			"website": "knowledgent.com",
+			"startDate": "2014-09-15",
+			"endDate": "2016-03-18",
+			"summary": "As a Big data Engineer involved in product development team Kariba within Knowledgent.Developed the Data management Service which required Open Source coding of Apache Falcon and Apache Solr to create the service on top of Hortonworks Hadoop Environment."
+		},
+		{
+			"company": "Computer Science Corporation, India",
+			"position": "Associate Developer",
+			"website": "csc.com",
+			"startDate": "2010-09-03",
+			"endDate": "2012-12-21",
+			"summary": "Started as Junior Developer and got promoted to Associate Developer. Worked with Siebel CRM for creating and maintaining ITS, SC, Club Car and Ingersoll Rand applications at Ingersoll Rand."
+		}
+	],
+	"education": [{
+		"institution": "University of North Carolina at Charlotte",
+		"area": "Charlotte, North Carolina",
+		"studyType": "Computer Science, Master of Science",
+		"startDate": "2012-12-26",
+		"endDate": "2014-05-08"
+	},
+	{
+		"institution": "Jawaharlal Nehru Technological University",
+		"area": "Hyderabad, Andhra Pradesh, India",
+		"studyType": "Electronics and Communication Engineering, Bachelor of Technology",
+		"startDate": "2006-09-07",
+		"endDate": "2010-05-08"
+	}
+	],
+	"awards": [{
+		"title": "Student Achievement Award",
+		"awardDate": "2007-02",
+		"awarder": "Vardhaman College of Engineering"
+	}],
+	"skills": [{
+		"name": "Telugu",
+		"level": "Proficient"
+	},{
+		"name": "English",
+		"level": "Proficient"
+	}],
+	"hobbies": [{
+		"name": "Cooking, Badminton, Snooker, Cricket",
+		"keywords": [
+			""
+		]
+	}],
+	"references": "Please contact for references."
+}
